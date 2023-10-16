@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DevLionvictor
-- 👀 I’m interested in building business solutions.
-- 💞️ I’m looking to collaborate on any fintech project
+- 👋 Hi, I’m @DevLionvictor a fullstack developer
+- 👀 I’m interested in building tech solutions.
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me : on mail victormaxvincent@gmail.com
 
 <!---
